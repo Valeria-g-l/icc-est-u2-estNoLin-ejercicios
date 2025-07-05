@@ -8,7 +8,7 @@ Carrera: Computación
 
 Estudiante: [Kelly Valeria Guaman Leon]
 
-Fecha: [0/07/2025]
+Fecha: [05/07/2025]
 
 Profesor: Ing. Pablo Torres
 
